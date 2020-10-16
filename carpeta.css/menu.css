@@ -1,0 +1,49 @@
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: #03bb7e;
+    font-size: 23px;
+    font-family: segoe print;
+    text-align: center;
+    margin-top: -8px;
+    }
+    
+    .logo2{
+    background: #03bb7e;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    
+    }
+    
+    .menu ul {
+    
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+    
+    }
+    
+    .menu li{
+    
+    padding-top: 30px;
+    padding-left: 55px;
+    
+    }
+    
+    
+    .menu li a:hover{
+    color: white;
+    text-decoration: overline;
+    
+    }
+    
+    .menu li a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    ; 
+    }
